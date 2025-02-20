@@ -3,7 +3,7 @@
     color: white; /* Білий текст */
     text-align: center; /* Вирівнювання тексту по центру */
     padding: 20px; /* Відступи */
-    font-size: 24px; /* Розмір шрифту */
+    font-size: 14px; /* Розмір шрифту */
     font-weight: bold; /* Жирний текст */
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3); /* Тінь для об'ємності */
   }
